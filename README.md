@@ -1,2 +1,2 @@
 # python-projects
-Here are some good python projects which i did while learning python. It can be useful to beginners in python.
+Well here some modified and edited programs will be there.
